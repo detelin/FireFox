@@ -1,2 +1,2 @@
 # FireFox
-setings
+settings
