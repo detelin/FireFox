@@ -35,7 +35,7 @@
                    NS1:disabled="false"
                    NS1:simpleUrl=""
                    NS1:simpleParameter=""
-                   NS1:regexUrl="^https?://[^/]*\.youtube\.([a-z]+\.?)+/[^?/]*\?(.*&amp;)search_query=([^&amp;]+)" />
+                   NS1:regexUrl="^http[s]?://[^.]+\.youtube\.([a-z]+\.?)/[^?/]*\?search_query=([^&amp;]+)" />
   <RDF:Description RDF:about="rdf:#$5BKe53"
                    NS1:name="yahoo"
                    NS1:type="regex"
