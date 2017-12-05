@@ -1,0 +1,8 @@
+g: https://www.google.com/search?tbs=qdr:y&q=%s Google
+ig: https://www.google.com/search?tbm=isch&q=%s Images Google
+p: https://www.pinterest.com/search/pins/?q=%s Pintereste
+y: https://www.youtube.com/results?search_query=%s YouTube
+vg: https://www.google.com/search?tbm=vid&q=%s Video Google
+gm: https://maps.google.com/?q=%s Google Maps
+ebay: https://www.ebay.com/sch/?LH_TitleDesc=1&_nkw=%s eBay
+a: http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=%s Amazon
